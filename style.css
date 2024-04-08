@@ -105,7 +105,7 @@ section:nth-child(2n) {
 }
 
 section:nth-child(2n + 1) {
-    background-color: white;
+    background-color:  rgb(28, 7, 7);
 }
 
 .section-heading {
